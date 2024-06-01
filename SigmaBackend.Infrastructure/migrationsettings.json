@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "SigmaDb": "server=localhost;database=sigama-db;user id=postgres;password=123456;"
+  }
+}
